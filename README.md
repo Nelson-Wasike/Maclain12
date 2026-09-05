@@ -23,4 +23,4 @@ I am a Data Analyst specializing in time series forecasting, financial modeling,
 
 ### 📫 Connect with Me
 * **LinkedIn:** [in/nelsonmaclain](https://linkedin.com/in/nelsonmaclain)
-* **X / Twitter:** [@wasike_m_nelson](https://x.com/wasike_m_nelson)
+* **X / Twitter:** [@wasike_m_nelson](https://x.com/drmaclainwn)
