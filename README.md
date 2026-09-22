@@ -52,7 +52,7 @@ I am a Data Analyst specializing in time series forecasting, financial modeling,
   <a href="https://linkedin.com/in/nelsonmaclain" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/wasike_m_nelson" target="_blank">
+  <a href="https://x.com/drmaclainwn" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
