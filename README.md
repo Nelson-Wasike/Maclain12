@@ -19,13 +19,21 @@ I am a Data Analyst specializing in time series forecasting, financial modeling,
 
 ### 📊 Featured Projects
 
-- **Comparative Time Series Analysis of Stock Prices**  
-  *Evaluated NSE stock returns and market volatility across Kenya's 2013, 2017, and 2022 election windows using event study methodology and abnormal return tracking.*  
-  `Python` `Statsmodels` `Time Series` `Event Study`
+- **[Feed Grain USDA Analysis](https://github.com/Nelson-Wasike/Feed_Grain_USDA_Analysis)**  
+  *Exploratory data analysis and econometric modeling on USDA feed grain statistics, tracking production trends, price dynamics, and supply-demand factors.*  
+  `Jupyter Notebook` `Python` `Data Analysis` `Agricultural Economics`
 
-- **Financial Modeling in Microsoft Excel**  
-  *Constructed a multi-scenario financial model (Upper, Middle, Lower cases) detailing revenue projections, COGS, operating expenses, and tax implications.*  
-  `Excel` `Financial Modeling` `Scenario Analysis`
+- **[Kenya Household Survey 2024](https://github.com/Nelson-Wasike/Kenya_Household_Survey_2024)**  
+  *In-depth data analysis and modeling on household survey data to evaluate key socioeconomic metrics and living standard trends across Kenya.*  
+  `Jupyter Notebook` `Python` `Data Analysis`
+
+- **[NBA 2026 Player Performance Analysis](https://github.com/Nelson-Wasike/NBA_2026_Player_Performance_Analysis)**  
+  *Python and Power BI analysis evaluating player season statistics, efficiency ratings, and performance trends for the 2025–2026 NBA season.*  
+  `Python` `Power BI` `Jupyter Notebook` `Sports Analytics`
+
+- **[Helping You Reset Your USB](https://github.com/Nelson-Wasike/Helping-you-reset-your-USB-)**  
+  *A DiskPart automation script designed to safely reset, repartition, format (exFAT), and assign drive letters for USB drives on Windows.*  
+  `Batch / DiskPart` `Windows Automation` `System Utilities`
 
 ---
 
